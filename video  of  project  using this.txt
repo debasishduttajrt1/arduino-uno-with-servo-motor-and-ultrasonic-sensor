@@ -1,0 +1,2 @@
+https://www.youtube.com/watch?v=tHXoqEkJd5Y
+ video of smart dustbin using ultrasonic sensor and servo motor and arduino uno.
